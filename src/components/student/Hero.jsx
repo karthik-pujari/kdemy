@@ -13,7 +13,7 @@ const Hero = () => {
       <h1 className='text-home-heading-small tracking-tight relative
       font-bold max-w-3xl mx-auto'>
         <span className='bg-gradient-to-b from-gray-500 to-gray-900 bg-clip-text text-transparent'>Empower your future with the </span>
-      courses designed to <span className='text-blue-600'>fit your choice.</
+      <span className='bg-gradient-to-b from-gray-500 to-gray-900 bg-clip-text text-transparent'>courses designed to </span><span className='text-blue-600'>fit your choice.</
       span><img src={assets.sketch} alt="sketch" className='md:block hidden 
       absolute -bottom-7 right-0' /></h1>
 
